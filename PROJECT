@@ -1,0 +1,3 @@
+version: "1"
+domain: hawq.org
+repo: github.com/hawq-cn/apicrd-example
